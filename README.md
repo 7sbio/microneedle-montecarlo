@@ -4,7 +4,9 @@ MATLAB code for Monte Carlo simulation of microneedle insertion / capillary stri
 Blicharz et al. "Microneedle-based device for the one-step painless collection of capillary blood samples"
 Nature Biomedical Engineering in press
 
+
 | Parameter | Definition | Values |
+| --------- | ---------- | ------ |
 | N | Number of trials | 100000 |
 | needleN | Number of needles in array | 1,4,8,30 |
 | needleXspacing | Spacing between needles in X dimension (mm) | 0.2 |
