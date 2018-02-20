@@ -2,7 +2,7 @@
 MATLAB code for Monte Carlo simulation of microneedle insertion / capillary strikes
 
 Blicharz et al. "Microneedle-based device for the one-step painless collection of capillary blood samples"
-Nature Biomedical Engineering in press
+Nature Biomedical Engineering (2018) http://doi.org/10.1038/s41551-018-0194-1
 
 
 | Parameter | Definition | Values |
